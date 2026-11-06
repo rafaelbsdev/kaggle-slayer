@@ -1,0 +1,11 @@
+{"ts": "2026-11-05T00:55:59+00:00", "kind": "measure", "members": 123, "own": 15, "public": 108, "cv": 0.952121, "folds": [0.95108, 0.95229, 0.95682, 0.95259, 0.94798]}
+{"ts": "2026-11-05T02:31:35+00:00", "kind": "measure", "members": 123, "own": 15, "public": 108, "cv": 0.952122, "folds": [0.95108, 0.95231, 0.95684, 0.95261, 0.94799]}
+{"ts": "2026-11-05T02:32:09+00:00", "kind": "written", "name": "pool-stack", "method": "stack", "hill_weights": {"own0": 0.6, "gpt2": 0.2, "own_lightgbm": 0.2}, "members": 123, "problems": []}
+{"ts": "2026-11-05T02:32:50+00:00", "kind": "submission", "ref": "58006578", "candidate": "pool-stack", "cv": 0.952122, "public_score": 0.95202, "gap": 0.0001020000000000465, "error": null}
+{"ts": "2026-11-05T05:48:07+00:00", "kind": "written", "name": "pool-both", "method": "both", "hill_weights": {"own0": 0.6, "gpt2": 0.2, "own_lightgbm": 0.2}, "members": 123, "problems": []}
+{"ts": "2026-11-05T16:08:31+00:00", "kind": "written", "name": "pool-134-stack", "method": "stack", "hill_weights": {"own1": 0.375, "gpt2": 0.25, "own_smoothed": 0.25, "own_lightgbm": 0.125}, "members": 150, "problems": []}
+{"ts": "2026-11-05T16:10:03+00:00", "kind": "written", "name": "pool-134-both", "method": "both", "hill_weights": {"own1": 0.375, "gpt2": 0.25, "own_smoothed": 0.25, "own_lightgbm": 0.125}, "members": 150, "problems": []}
+{"ts": "2026-11-05T22:05:29+00:00", "kind": "measure", "members": 182, "own": 16, "public": 166, "cv": 0.952314, "folds": [0.95138, 0.95244, 0.95703, 0.95261, 0.94818]}
+{"ts": "2026-11-05T22:06:29+00:00", "kind": "written", "name": "pool-182-stack", "method": "stack", "hill_weights": {"own0": 0.42857142857142855, "gpt2": 0.2857142857142857, "own_lightgbm": 0.14285714285714285, "own_smoothed": 0.14285714285714285}, "members": 182, "problems": []}
+{"ts": "2026-11-05T22:07:31+00:00", "kind": "written", "name": "pool-182-both", "method": "both", "hill_weights": {"own0": 0.42857142857142855, "gpt2": 0.2857142857142857, "own_lightgbm": 0.14285714285714285, "own_smoothed": 0.14285714285714285}, "members": 182, "problems": []}
+{"ts": "2026-11-06T00:02:41+00:00", "kind": "submission", "ref": "58038601", "candidate": "pool-182-stack", "cv": 0.952314, "public_score": 0.95199, "gap": 0.00032399999999999096, "error": null}

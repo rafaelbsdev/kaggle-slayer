@@ -1,0 +1,9 @@
+[project]
+name = "kaggle-slayer"
+version = "0.1.0"
+description = "A verified team of specialist agents that competes on Kaggle through the API."
+requires-python = ">=3.12"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

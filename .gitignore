@@ -1,0 +1,21 @@
+# Environment and secrets
+.venv/
+.venv-lm/
+.env
+kaggle.json
+access_token
+
+# Competition data must not be redistributed (see decisions/0002)
+data/
+artifacts/
+submissions/
+*.parquet
+*.npy
+*.csv
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+catboost_info/

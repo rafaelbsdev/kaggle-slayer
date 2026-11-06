@@ -1,0 +1,12 @@
+anthropic==2.4.0
+catboost==1.2.10
+kaggle==2.2.5
+lightgbm==4.7.0
+matplotlib==3.11.2
+numpy==2.5.4
+polars==2.1.0
+pydantic==2.14.2
+pytest==9.2.0
+scikit-learn==1.9.1
+tokenizers==0.23.3
+xgboost==3.4.1
